@@ -72,6 +72,6 @@ def login():
 # browser = webdriver.Chrome()
 browser = webdriver.Chrome('chromedriver.exe', options=Options())
 # 開啟蝦皮商品頁
-browser.get("https://shopee.tw/%E5%8F%B0%E7%81%A3%E7%8F%BE%E8%B2%A824H%E7%99%BC%E8%B2%A8%E6%B1%BA%E6%98%8E%E5%AD%90%E8%8F%8A%E8%8A%B1%E8%8C%B6%E8%8F%8A%E8%8A%B1%E6%B1%BA%E6%98%8E%E5%AD%90%E8%8C%B6%E9%87%91%E9%8A%80%E8%8A%B13C-%E5%AD%B8%E7%94%9F-%E4%B8%8A%E7%8F%AD%E6%97%8F-%E6%BC%A2%E6%96%B9%E8%8C%B6-%E6%B3%A1%E8%8C%B6%E4%B9%9D%E8%8F%8A%E5%A0%82-i.9931926.3740545269")
+browser.get("https://shopee.tw/商品頁")
 time.sleep(2)
 login()
