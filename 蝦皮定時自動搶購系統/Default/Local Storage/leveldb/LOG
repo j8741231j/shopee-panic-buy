@@ -1,0 +1,32 @@
+2023/05/27-09:41:50.791 54b8 Creating DB C:\Users\USER\Desktop\PanicBuy-shopee-\蝦皮定時自動搶購系統\Default\Local Storage\leveldb since it was missing.
+2023/05/27-09:41:50.828 54b8 Reusing MANIFEST C:\Users\USER\Desktop\PanicBuy-shopee-\蝦皮定時自動搶購系統\Default\Local Storage\leveldb/MANIFEST-000001
+2023/05/27-09:42:14.669 170c Level-0 table #5: started
+2023/05/27-09:42:14.673 170c Level-0 table #5: 155391 bytes OK
+2023/05/27-09:42:14.678 170c Delete type=0 #3
+2023/05/27-09:50:02.370 170c Level-0 table #7: started
+2023/05/27-09:50:02.376 170c Level-0 table #7: 168149 bytes OK
+2023/05/27-09:50:02.380 170c Delete type=0 #4
+2023/05/27-09:51:44.824 170c Level-0 table #9: started
+2023/05/27-09:51:44.829 170c Level-0 table #9: 154601 bytes OK
+2023/05/27-09:51:44.833 170c Delete type=0 #6
+2023/05/27-09:52:05.902 170c Level-0 table #11: started
+2023/05/27-09:52:05.909 170c Level-0 table #11: 157214 bytes OK
+2023/05/27-09:52:05.913 170c Delete type=0 #8
+2023/05/27-09:53:05.896 170c Level-0 table #13: started
+2023/05/27-09:53:05.904 170c Level-0 table #13: 152739 bytes OK
+2023/05/27-09:53:05.908 170c Delete type=0 #10
+2023/05/27-09:54:02.677 170c Level-0 table #15: started
+2023/05/27-09:54:02.682 170c Level-0 table #15: 154772 bytes OK
+2023/05/27-09:54:02.685 170c Delete type=0 #12
+2023/05/27-09:54:02.686 170c Compacting 4@0 + 1@1 files
+2023/05/27-09:54:02.691 170c Generated table #16@0: 35 keys, 324121 bytes
+2023/05/27-09:54:02.691 170c Compacted 4@0 + 1@1 files => 324121 bytes
+2023/05/27-09:54:02.693 170c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/27-09:54:02.694 170c Delete type=2 #7
+2023/05/27-09:54:02.694 170c Delete type=2 #9
+2023/05/27-09:54:02.694 170c Delete type=2 #11
+2023/05/27-09:54:02.694 170c Delete type=2 #13
+2023/05/27-09:54:02.694 170c Delete type=2 #15
+2023/05/27-10:07:05.911 170c Level-0 table #18: started
+2023/05/27-10:07:05.919 170c Level-0 table #18: 29646 bytes OK
+2023/05/27-10:07:05.922 170c Delete type=0 #14
