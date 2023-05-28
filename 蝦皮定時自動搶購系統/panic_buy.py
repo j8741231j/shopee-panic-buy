@@ -76,7 +76,7 @@ def buy(times):
 # 主程式
 # 開啟Chrome瀏覽器
 # 到C:\Program Files\Google\Chrome\Application下指令
-# chrome.exe --remote-debugging-port=9527 --user-data-dir="填你selenium專案的路徑"
+# chrome.exe --remote-debugging-port=9453 --user-data-dir="C:\Users\Anonymous\Desktop\PanicBuy-shopee-\蝦皮定時自動搶購系統"
 options = Options()
 options.add_experimental_option("debuggerAddress", "127.0.0.1:9453") #這樣你就能控制已經登入的蝦皮
 # browser = webdriver.Chrome()
